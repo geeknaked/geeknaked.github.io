@@ -292,13 +292,15 @@
 		<div id="map">
 			<div id="gmap-wrap">
 	 			<div id="gmap">
-                 <script>
-                    var mapObj =  new GMaps({
-                        div: '#map',
-                        lat: 37.789655,
-                        lng: -122.4282536
-                    });
-                     </script>
+                <script src="https://maps.googleapis.com/maps/api/js"></script>
+                <script type="text/javascript" src="js/gmaps.js"></script>
+                    <script>
+                        var mapObj =  new GMaps({
+                            div: '#map',
+                            lat: 37.789655,
+                            lng: -122.4282536
+                        });
+                    </script>
 	 			</div>	 			
 	    	</div>
 		</div><!--/#map-->
@@ -361,8 +363,6 @@
   
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-  	<script type="text/javascript" src="js/gmaps.js"></script>
 	<script type="text/javascript" src="js/smoothscroll.js"></script>
     <script type="text/javascript" src="js/jquery.parallax.js"></script>
     <script type="text/javascript" src="js/coundown-timer.js"></script>
