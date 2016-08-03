@@ -430,7 +430,7 @@ var GMaps = (function(global) {
     };
 
     this.setCenter = function(lat, lng, callback) {
-      this.map.panTo(new google.maps.LatLng(37.8069655, 37.8069655));
+      this.map.panTo(new google.maps.LatLng(lat, lng));
 
       if (callback) {
         callback();
