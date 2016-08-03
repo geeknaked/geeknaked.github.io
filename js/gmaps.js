@@ -22,6 +22,13 @@ if (!(typeof window.google === 'object' && window.google.maps)) {
   throw 'Google Maps API is required. Please register the following JavaScript library http://maps.google.com/maps/api/js?sensor=true.'
 }
 
+var map = new GMaps({
+      div: '.map',
+      lat: 37.7821255, 
+      lng: -122.4245811,
+      zoom: 0
+});
+    
 var extend_object = function(obj, new_obj) {
   var name;
 
