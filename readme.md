@@ -56,14 +56,14 @@ It stands out with its clean design and elegant typography. This template includ
 
 **Plugins used in the template**
 
-- Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
+- Owl Carousel ([https://www.owlgraphic.com/owlcarousel/](https://www.owlgraphic.com/owlcarousel/))
 
 
 **Fonts used in the template**
 
-- Montserrat ([http://www.google.com/fonts/specimen/Montserrat](http://www.google.com/fonts/specimen/Montserrat))
-- Merriweather ([http://www.google.com/fonts/specimen/Merriweather](http://www.google.com/fonts/specimen/Merriweather))
-- Font awesome - ([http://fontawesome.io/icons/](http://fontawesome.io/icons/))
+- Montserrat ([https://www.google.com/fonts/specimen/Montserrat](https://www.google.com/fonts/specimen/Montserrat))
+- Merriweather ([https://www.google.com/fonts/specimen/Merriweather](https://www.google.com/fonts/specimen/Merriweather))
+- Font awesome - ([https://fontawesome.io/icons/](https://fontawesome.io/icons/))
 
 
 
@@ -84,7 +84,7 @@ Apart from Bootstrap JS components majority of JS is located in /js/front.js. In
 
 **Google Maps**
 
-Google maps are used on the contact page. If you need just to show location of the company on the map, the only neccessary thing is to change coordinates in the `gmaps.init.js`. For further settings and possibilities please consult [gmaps.js documentation](http://hpneo.github.io/gmaps/) or [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/).
+Google maps are used on the contact page. If you need just to show location of the company on the map, the only neccessary thing is to change coordinates in the `gmaps.init.js`. For further settings and possibilities please consult [gmaps.js documentation](https://hpneo.github.io/gmaps/) or [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/).
 
 Thank you for purchasing!
 
@@ -105,13 +105,13 @@ ondrique, (ahoj@ondrejsvestka.cz)
 
 **Plugins used in the template**
 
-- Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
+- Owl Carousel ([https://www.owlgraphic.com/owlcarousel/](https://www.owlgraphic.com/owlcarousel/))
 - jQuery Counter Up ([https://github.com/bfintal/Counter-Up](https://github.com/bfintal/Counter-Up))
-- jQuery Waypoints ([http://imakewebthings.com/jquery-waypoints/](http://imakewebthings.com/jquery-waypoints/))
-- animate.css ([http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/))
-- Modernizr ([http://modernizr.com/](http://modernizr.com/)) 
-- jQuery scrollTo ([http://demos.flesler.com/jquery/scrollTo/](http://demos.flesler.com/jquery/scrollTo/))
-- gmaps.js ([http://hpneo.github.io/gmaps/](http://hpneo.github.io/gmaps/))
+- jQuery Waypoints ([https://imakewebthings.com/jquery-waypoints/](https://imakewebthings.com/jquery-waypoints/))
+- animate.css ([https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/))
+- Modernizr ([https://modernizr.com/](https://modernizr.com/)) 
+- jQuery scrollTo ([https://demos.flesler.com/jquery/scrollTo/](https://demos.flesler.com/jquery/scrollTo/))
+- gmaps.js ([https://hpneo.github.io/gmaps/](https://hpneo.github.io/gmaps/))
 
 **Fonts used in the template**
 
@@ -119,10 +119,10 @@ ondrique, (ahoj@ondrejsvestka.cz)
 
 ## Credits ##
 
-- Bootstrap 3.3.2 - [http://getbootstrap.com/](http://getbootstrap.com/)
-- Photos for demo purposes [IM FREE](http://www.imcreator.com/free)
-- Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
-- Font awesome - ([http://fontawesome.io/icons/](http://fontawesome.io/icons/))
+- Bootstrap 3.3.2 - [https://getbootstrap.com/](https://getbootstrap.com/)
+- Photos for demo purposes [IM FREE](https://www.imcreator.com/free)
+- Owl Carousel ([https://www.owlgraphic.com/owlcarousel/](https://www.owlgraphic.com/owlcarousel/))
+- Font awesome - ([https://fontawesome.io/icons/](https://fontawesome.io/icons/))
 
 
 
